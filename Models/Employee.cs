@@ -8,4 +8,4 @@ namespace EmployeenewAPI.Models
         public decimal Salary { get; set; }
     }
 }
-// this is modal class directly use employee object instead of the parametere id name age salary 
+// this is modal class directly use employee object instead of the parametere id name 
