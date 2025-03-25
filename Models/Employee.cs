@@ -9,3 +9,4 @@ namespace EmployeenewAPI.Models
     }
 }
 // this is modal class directly use employee object instead of the parametere id name 
+//this another use
