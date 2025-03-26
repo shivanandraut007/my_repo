@@ -77,3 +77,4 @@ C:\Users\LENOVO\EmployeenewAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsof
 C:\Users\LENOVO\EmployeenewAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\LENOVO\EmployeenewAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\LENOVO\EmployeenewAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\EmployeenewAPI\obj\Debug\net9.0\EmployeenewAPI.sourcelink.json
